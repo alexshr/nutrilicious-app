@@ -18,7 +18,7 @@ android {
     }
     buildTypes {
         debug {
-            buildConfigField 'String', "API_KEY", Nutrilicious_UsdaApiKey
+            buildConfigField 'String', "API_KEY", "\"nhjelnlXBF9Oo7notfc86pKcUz5Z12NxoNP9Pu3l\""
             // From properties
         }
         release {
